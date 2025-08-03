@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NirogGyan__assignment/static/css/main.dd1747ff.css",
+    "main.js": "/NirogGyan__assignment/static/js/main.dcf9aac7.js",
+    "static/js/453.4c30dd2e.chunk.js": "/NirogGyan__assignment/static/js/453.4c30dd2e.chunk.js",
+    "index.html": "/NirogGyan__assignment/index.html",
+    "main.dd1747ff.css.map": "/NirogGyan__assignment/static/css/main.dd1747ff.css.map",
+    "main.dcf9aac7.js.map": "/NirogGyan__assignment/static/js/main.dcf9aac7.js.map",
+    "453.4c30dd2e.chunk.js.map": "/NirogGyan__assignment/static/js/453.4c30dd2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1747ff.css",
+    "static/js/main.dcf9aac7.js"
+  ]
+}

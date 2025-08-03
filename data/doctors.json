@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ashwani",
+        "specialization": "Physio-Therapiest",
+        "profileImg": "https://i.postimg.cc/Mp2TR3jp/male-profile-img.png",
+        "availabilityStatus": "Available Today"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Rajan",
+        "specialization": "Cardiologist",
+        "profileImg": "https://i.postimg.cc/Mp2TR3jp/male-profile-img.png",
+        "availabilityStatus": "Fully Booked"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Priya",
+        "specialization": "Dentist",
+        "profileImg": "https://i.postimg.cc/6qJTBHKS/girl-profile-img.png",
+        "availabilityStatus": "Fully Booked"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sandhya",
+        "specialization": "Neurologist",
+        "profileImg": "https://i.postimg.cc/6qJTBHKS/girl-profile-img.png",
+        "availabilityStatus": "On Leave"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Abhay",
+        "specialization": "Dermatologist",
+        "profileImg": "https://i.postimg.cc/Mp2TR3jp/male-profile-img.png",
+        "availabilityStatus": "Available Today"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Raman",
+        "specialization": "Ophthalmologist",
+        "profileImg": "https://i.postimg.cc/Mp2TR3jp/male-profile-img.png",
+        "availabilityStatus": "Available Today"
+    }
+]
