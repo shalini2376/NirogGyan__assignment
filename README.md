@@ -49,6 +49,11 @@ package-lock.json
 My_README.md
 README.md
 ```
+---
+
+## 📸 Screenshot
+![NirogGyan DoctorProfiles](./nirogGyaan_DrProfiles.png)
+![NirogGyan Appointment](./nirogGyaan_appointments.png)
 
 ---
 
